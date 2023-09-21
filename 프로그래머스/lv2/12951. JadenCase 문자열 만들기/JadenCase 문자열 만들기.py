@@ -9,3 +9,4 @@ def solution(s):
     
     
     return answer
+    # return s.title()
